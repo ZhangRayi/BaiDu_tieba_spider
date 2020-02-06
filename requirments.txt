@@ -1,0 +1,4 @@
+requests==2.22.0
+pandas==0.25.3
+tqdm==4.38.0
+lxml==4.4.1
