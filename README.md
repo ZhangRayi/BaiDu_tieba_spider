@@ -5,4 +5,4 @@ spyder of baidu_tieba (http://tieba.baidu.com/), just a demo now. TBC
 
 Readme？
 NOPE，You'd better download Readme.docx, haha.  X )
-# Readme里是说明
+# Readme（.docx文件）里是说明
