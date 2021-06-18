@@ -1,5 +1,5 @@
 # BaiDu_tieba_spider
-spyder of baidu_tieba (http://tieba.baidu.com/), just a demo now. TBC
+spider of baidu_tieba (http://tieba.baidu.com/), just a demo now. TBC
 
 为百度贴吧写的个小爬虫，demo版，完整版写完再发布
 
